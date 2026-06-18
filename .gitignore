@@ -1,13 +1,25 @@
-# Node.js
-node_modules/
-package-lock.json
-
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-.pytest_cache/
 
-# OS specific
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
 .DS_Store
 Thumbs.db
+
+# Project specific
+*.docx
+~$*.docx
