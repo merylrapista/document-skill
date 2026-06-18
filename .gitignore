@@ -1,32 +1,25 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-pip-log.txt
-pip-delete-this-directory.txt
-.tox/
-.venv/
-venv/
-env/
-*.egg-info/
-dist/
-build/
+*.py[cod]
+*$py.class
 
-# IDE
-.vscode/
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
 .idea/
+.vscode/
 *.swp
 *.swo
 
-# OS
+# OS generated files
 .DS_Store
 Thumbs.db
 
-# Output files
-output.docx
-~$output.docx
-
-# opencode (local config only)
-.opencode/opencode.json
+# Project specific
+*.docx
+~$*.docx
