@@ -8,10 +8,6 @@ __pycache__/
 *$py.class
 .pytest_cache/
 
-# Document Generator Outputs & Temps
-*.docx
-~$*.docx
-
 # OS specific
 .DS_Store
 Thumbs.db
